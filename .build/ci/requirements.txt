@@ -18,4 +18,5 @@
 # Changes to this file must also be put into
 
 beautifulsoup4==4.12.3
+defusedxml==0.7.1
 jinja2==3.1.5
