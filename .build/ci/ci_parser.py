@@ -26,7 +26,7 @@ import cProfile
 import pstats
 import os
 import shutil
-import xml.etree.ElementTree as ET
+import defusedxml.ElementTree as ET
 from typing import Callable, Dict, Tuple, Type
 from pathlib import Path
 
